@@ -1,3 +1,7 @@
+# code obtained from the internet and modified to fit the challenge
+# think this link was the main page whose subpage i got the code from
+#https://0xb0b.gitbook.io/writeups/tryhackme/2024/breaking-rsa
+
 import gmpy2
 from Cryptodome.PublicKey import RSA
 
