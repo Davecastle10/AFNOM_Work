@@ -1,0 +1,13 @@
+while read p; do
+  echo "$p"
+done <peptides.txt
+
+
+while true; do foo; sleep 2; done
+
+while read p; do echo "$p"; done </var/www/fileserver/b1gb0ss/5yearplan.txt
+
+
+
+
+search h;while read p; do echo "$p"; done </var/www/fileserver/.internal_files/mission_briefing.txt
